@@ -8,4 +8,7 @@ public class claseprueba {
         return "apellido";
     }
     
+    public static String edad(){
+        return "edad";
+    }
 }
